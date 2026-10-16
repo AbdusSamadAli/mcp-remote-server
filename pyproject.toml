@@ -1,0 +1,11 @@
+[project]
+name = "remote-calculator-mcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastmcp>=4.1.0",
+    "mysql-connector-python>=26.7.0",
+    "python-dotenv>=1.2.4",
+]
